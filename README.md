@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Responsive Landing Page
 
 A clean, modern, and fully responsive landing page template built with HTML5, CSS3, and JavaScript. This project demonstrates best practices in responsive web design and modern UI/UX principles.
@@ -107,3 +108,6 @@ Project Link: [https://github.com/rohansahani40/BasicLandingPage](https://github
 - Font Awesome for the icons
 - Google Fonts for typography
 - Modern CSS techniques and best practices 
+=======
+# BasicLandingPage
+>>>>>>> origin/main
